@@ -62,7 +62,7 @@ public class introduction extends javax.swing.JFrame {
         jButton3.setText("HOME REMEDY");
 
         jButton4.setFont(new java.awt.Font("Tahoma", 1, 30)); // NOI18N
-        jButton4.setText("ASK DOCTOR");
+        jButton4.setText("Consult Doctor");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton4ActionPerformed(evt);
